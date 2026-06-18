@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YeabsiraTadele/YeabsiraTadele/main/WELCOME%20TO%20MY%20PAGE%20FULL%20STACK%20%E2%80%A2%20MOBILE%20%E2%80%A2%20DESKTOP%20DEVELOPER.gif" alt="Profile Header" width="100%">
+  <img src="https://raw.githubusercontent.com/YeabsiraTadele/YeabsiraTadele/main/WELCOME%20TO%20MY%20PAGE%20FULL%20STACK%20%E2%80%A2%20MOBILE%20%E2%80%A2%20DESKTOP%20DEVELOPER.gif" alt="Profile Header" style="max-height: 100px; width: auto;">
 </p>
 
 <a href='https://www.instagram.com/meet_yeab?igsh=MXNnZXpkYmJkbm14ZA=='><img align='left' alt="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" height='18px'/></a>
