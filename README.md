@@ -29,24 +29,33 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 
+### 🔨 Languages and Tools:
+
 <p align="left">
-  <a href="https://www.java.com" target="_blank"><img alt="Java" height="40px" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>&nbsp;
-  <a href="https://www.python.org" target="_blank"><img alt="Python" height="40px" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>&nbsp;
-  <a href="https://kotlinlang.org" target="_blank"><img alt="Kotlin" height="40px" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>&nbsp;
-  <a href="https://www.php.net" target="_blank"><img alt="PHP" height="36px" src="https://api.iconify.design/logos:php.svg"></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" height="40px" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"></a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank"><img alt="React" height="40px" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>&nbsp;
-  <a href="https://nodejs.org" target="_blank"><img alt="Node.js" height="40px" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML5" height="34px" src="https://api.iconify.design/logos:html-5.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img alt="CSS3" height="34px" src="https://api.iconify.design/logos:css-3.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com" target="_blank"><img alt="MySQL" height="35px" src="https://api.iconify.design/logos:mysql-icon.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank"><img alt="PostgreSQL" height="35px" src="https://api.iconify.design/logos:postgresql.svg"></a>&nbsp;&nbsp;
-  <a href="https://developer.android.com" target="_blank"><img alt="Android Studio" height="40px" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"></a>&nbsp;
-  <a href="https://code.visualstudio.com" target="_blank"><img alt="VS Code" height="35px" src="https://api.iconify.design/logos:visual-studio-code.svg"></a>&nbsp;&nbsp;
-  <a href="https://visualstudio.microsoft.com" target="_blank"><img alt="Visual Studio" height="35px" src="https://api.iconify.design/logos:visual-studio.svg"></a>&nbsp;&nbsp;
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img alt="IntelliJ IDEA" height="35px" src="https://api.iconify.design/logos:intellij-idea.svg"></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img alt="git" height="40px" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />&nbsp;
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
+  
+  <!-- IDEs & Tools -->
+  <img src="https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />&nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />&nbsp;
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+<br>
 
 <br>
 <br>
