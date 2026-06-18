@@ -24,7 +24,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📫 &nbsp; Feel free to ping me on [Instagram](https://www.instagram.com/meet_yeab?igsh=MXNnZXpkYmJkbm14ZA==) or [Telegram](https://t.me/Ketoran_T)
 
 <br>
-
+<br>
 ### 🔨 Languages and Tools:
 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
