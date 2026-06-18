@@ -27,7 +27,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 ### 🔨 Languages and Tools:
 <br>
-### 🔨 Languages and Tools:
+
 
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img alt="Java" height="40px" width="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>&nbsp;
