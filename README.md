@@ -173,7 +173,7 @@ I am a software developer who focuses on building functional, end-to-end digital
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity 
 *(These graphics will automatically pull data from your profile once live!)*
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
